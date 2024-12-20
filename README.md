@@ -45,7 +45,7 @@ This project's initial structure and function calling implementation were inspir
 - "gpt-function-calling-tutorial" by JayZeeDesign
   [Link to GitHub Repository](https://github.com/JayZeeDesign/gpt-function-calling-tutorial)
 
-This study is funded by the Rutgers’s Research Incubator in Climate and Health, Seed Funding Initiative and Research Council Award – “Engaged Climate Action”. The source code and data are available through the GitHub repository: https://github.com/rqwang/FloodGPT_Prototype.![image](https://github.com/user-attachments/assets/ea7e3759-46fd-484a-a1c9-2126c6e1520f)
+This study is funded by the Rutgers’s Research Incubator in Climate and Health, Seed Funding Initiative and Research Council Award – “Engaged Climate Action”. The source code and data are available through the GitHub repository: https://github.com/rqwang/FloodGPT_Prototype.
 
 ## License
 This project is under the MIT License.
